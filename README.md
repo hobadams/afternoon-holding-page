@@ -1,3 +1,3 @@
 # Afternoon studio holding page
 
-Hosted on Netlify
+Hosted on Github pages
